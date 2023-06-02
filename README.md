@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Ivan LR</h1>
 <h3 align="center">Me gusta el desarrollo web -FrontEnd-</h3>
 
-- 🔭 I’m currently working on **Desarrollo de pagina web para empresa dedicada a redes**
+- 🔭 I’m currently working on **Single page para empresa dedicada a redes**
 
 - 🌱 I’m currently learning **Angular avanzado, Diseño U/X**
 
