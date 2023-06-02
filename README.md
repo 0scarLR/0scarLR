@@ -1,5 +1,5 @@
-### Hi there 👋
-## Hola mi nombre es Oscar Ivan soy ingeniero en sistemas computacionales
+
+## Hola 👋 mi nombre es Oscar Ivan soy ingeniero en sistemas computacionales
 Me gusta la programación web ✨
 <!--
 **0scarLR/0scarLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
